@@ -15,3 +15,7 @@ Credits to the respective creators
   https://factorioprints.com/view/-Laacl_XwFQzxFuJy50E
 * BusLaneSplitters:  
   https://www.reddit.com/r/factorio/comments/b66no6/priority_splitters_vs_balance_splitters_for_your/
+* advancedOilProcessing:  
+  https://factorioprints.com/view/-LX0DrUrauJqH8cVAq6A
+* oilStarterSetup:  
+  https://factorioprints.com/view/-LSmAQptmNLrT67NuHrS
