@@ -19,3 +19,7 @@ Credits to the respective creators
   https://factorioprints.com/view/-LX0DrUrauJqH8cVAq6A
 * oilStarterSetup:  
   https://factorioprints.com/view/-LSmAQptmNLrT67NuHrS
+* beaconedRedChips:  
+  https://factorioprints.com/view/-LZctOX7lLwO8Rcn9IoC
+* modularRobots:  
+  https://factorioprints.com/view/-L0-rgc9Adip1XlJLhPj
