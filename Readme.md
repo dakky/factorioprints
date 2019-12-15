@@ -21,5 +21,5 @@ Credits to the respective creators
   https://factorioprints.com/view/-LSmAQptmNLrT67NuHrS
 * beaconedRedChips:  
   https://factorioprints.com/view/-LZctOX7lLwO8Rcn9IoC
-* modularRobots:  
-  https://factorioprints.com/view/-L0-rgc9Adip1XlJLhPj
+* robots:  
+  https://www.factorio.school/view/-La7SL7J25XF6rUnld4X
