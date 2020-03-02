@@ -23,3 +23,5 @@ Credits to the respective creators
   https://factorioprints.com/view/-LZctOX7lLwO8Rcn9IoC
 * robots:  
   https://www.factorio.school/view/-La7SL7J25XF6rUnld4X
+* late Game/greenChips:  
+  https://factorioprints.com/view/-KYg56ks0BIqpNvpIHFm
